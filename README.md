@@ -5,6 +5,7 @@
 
 ## Overview
 This project presents a comprehensive analysis of Netflix's movies and TV shows dataset using SQL. The objective is to extract meaningful insights and address various business-related queries through structured data exploration. This README outlines the project’s aim, approach, and the range of problems tackled during the analysis.
+
 ## Objectives
 
 - Analyze the distribution between Movies and TV Shows.
