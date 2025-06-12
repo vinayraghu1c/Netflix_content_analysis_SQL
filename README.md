@@ -284,4 +284,6 @@ ORDER BY date_added ASC;
 
 Overall, this analysis offers valuable insights into Netflix’s content landscape and supports data-driven content planning and strategy.
 
-### MY LINKEDIN : https://www.linkedin.com/in/vinay-raghuwanshi
+## *MY LINKEDIN : https://www.linkedin.com/in/vinay-raghuwanshi*
+
+   ***Analyzed By - Vinay Raghuwanshi***
