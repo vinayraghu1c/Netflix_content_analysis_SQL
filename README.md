@@ -14,11 +14,10 @@ This project presents a comprehensive analysis of Netflix's movies and TV shows 
 - Categorize content based on genres and keywords.
 - Address specific business queries related to content trends, metadata gaps, and cast/director insights
 
-## Dataset
+## Tech Stack
 
-The data for this project is sourced from the Kaggle dataset:
-
-- **Dataset Link:** [Netflix Dataset](https://www.kaggle.com/datasets/shivamb/netflix-shows?resource=download)
+- **Database Tool**: PostgreSQL (pgAdmin 4) 
+- **Dataset**: [Kaggle_Netflix Dataset](https://www.kaggle.com/datasets/shivamb/netflix-shows?resource=download)
 
 ## Schema
 
